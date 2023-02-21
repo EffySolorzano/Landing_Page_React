@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-image: url(https://wallpaper.dog/large/526945.jpg);
+}
+.card{
+    width: 300px;
+    margin-bottom: 100px;
+}
+  .neko{
+    width: 25px;
+  }
+#row{
+    opacity: 70%;
+    border-radius: 20px;
+}
+  
